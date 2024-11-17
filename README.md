@@ -1,4 +1,4 @@
-# Overview-of-DynamoDB-in-AWS
+# Ex-07-Overview-of-DynamoDB-in-AWS
 
 ## Aim
 To understand and perform basic operations in Amazon DynamoDB, including table creation, item insertion, querying, and experimenting with simple data operations using the AWS SDK.
